@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sun Nov 26 19:23:29 2023
+# Process ID: 2196
+# Current directory: C:/Files/Basys/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log and_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source and_gate.tcl
+# Log file: C:/Files/Basys/project_1/project_1.runs/synth_1/and_gate.vds
+# Journal file: C:/Files/Basys/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: Zephyrus-G14-Chakri, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16541 MB
+#-----------------------------------------------------------
+source and_gate.tcl -notrace
