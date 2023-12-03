@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Files/Basys_projects/d_ff/d_ff.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Files/Basys_projects/d_ff/d_ff.srcs/sim_1/new/testbench.v,1701646220,verilog,,,,testbench,,,,,,,,
+C:/Files/Basys_projects/d_ff/d_ff.srcs/sources_1/new/clk_1Hz.v,1701639279,verilog,,C:/Files/Basys_projects/d_ff/d_ff.srcs/sources_1/new/d_ff.v,,clk_1Hz,,,,,,,,
+C:/Files/Basys_projects/d_ff/d_ff.srcs/sources_1/new/d_ff.v,1701641832,verilog,,C:/Files/Basys_projects/d_ff/d_ff.srcs/sources_1/new/top_module.v,,d_ff,,,,,,,,
+C:/Files/Basys_projects/d_ff/d_ff.srcs/sources_1/new/top_module.v,1701642540,verilog,,C:/Files/Basys_projects/d_ff/d_ff.srcs/sim_1/new/testbench.v,,top_module,,,,,,,,
